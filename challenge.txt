@@ -1,0 +1,16 @@
+Assalamu'alaykum
+
+Problem:
+Diberikan file employee.json (terlampir). Dari data tsb buat sebuah halaman dg component widget, yg menampilkan data berikut:
+
+1. Cari semua karyawan dengan gaji di atas Rp15.000.000
+2. Cari semua karyawan yang berdomisili di Jakarta
+3. Cari semua karyawan yang ulang tahun pada bulan Maret
+4. Cari semua karyawan yang berada di departemen Research and Development
+5. Cari berapa banyak jumlah hari tidak masuk dari setiap karyawan pada October 2019
+
+Stack yg digunakan adalah
+* vue.js
+* sass (tanpa framework)
+
+Menjadi nilai plus jika memaksimalkan fitur dari stack yg anda gunakan dan konsep programming yg baik.
